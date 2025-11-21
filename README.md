@@ -1,4 +1,5 @@
 A Data Science Project for Financial Analysis
+
 Objective
 This project demonstrates how to extract stock price data and company revenue data using APIs and web scraping, and how to visualize the information using interactive plots. 
 The analysis focuses on Tesla (TSLA) and GameStop (GME), comparing historical stock performance with quarterly revenue.
