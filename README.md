@@ -1,4 +1,4 @@
-A Data Science Project for Financial Analysis
+# Stock Price Analysis Using Webscraping
 
 Objective
 This project demonstrates how to extract stock price data and company revenue data using APIs and web scraping, and how to visualize the information using interactive plots. 
